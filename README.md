@@ -2,4 +2,4 @@
 
 Esse projeto é uma forma de agregar mais informação ao currículo estático.
 
-### Tecnologias utlizadas: "html", "css", "javascript", "react", "typescript", "json"
+### Tecnologias utlizadas: Html, Css, JavaScript, React, TypeScript, Json
